@@ -7,15 +7,15 @@
 Welcome to my GitHub! I’m a Software QA Engineer passionate about building reliable, high-quality software through automated testing, manual testing, and bug hunting. My focus is on creating clean, maintainable, and scalable automation frameworks for modern web applications.
 ## 🏠 Repositories
 
-[WebAutomationBehave-BDD]()
+[WebAutomationBehave-BDD](https://github.com/noah-jones-dev/WebAutomationBehave-BDD)
 
 Python-based web automation project using the Behave BDD framework. Demonstrates scalable, maintainable automation for modern web applications.
 
-[WebAutomationNUnit]()
+[WebAutomationNUnit](https://github.com/noah-jones-dev/WebAutomationNUnit)
 
 C#-based web automation framework built with NUnit. Streamlines and validates web application interactions following best practices.
 
-[WebAutomationPytest]()
+[WebAutomationPytest](https://github.com/noah-jones-dev/WebAutomationPytest)
 
 Pytest-based web automation project. Focused on clean and scalable automation, showcasing Python testing expertise.
 
